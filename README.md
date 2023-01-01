@@ -3,7 +3,7 @@
 --- 
 
 ### Documentation
-For more details please visit: https://dev.laidani.com/Create-an-Audio-Transcript-with-Amazon-Transcribe-API-Gateway-Lambda-and-Terraform
+For more details please visit: https://dev.laidani.com/create-an-audio-transcript-with-amazon-transcribe-api-gateway-lambda-and-terraform
 
 ----
 
